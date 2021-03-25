@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Generation Modes">
+      <UniqueIdentifier>{b6080a1f-aa95-4baa-b99b-22831d4de519}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Generation Modes">
+      <UniqueIdentifier>{f713b41d-8001-4381-87fa-c492d2e64dd6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Shaders">
+      <UniqueIdentifier>{ee159944-f658-4012-8df1-f3048424bcfc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Shaders">
+      <UniqueIdentifier>{208a47b3-ccce-4fdb-9e6a-df862c5030d3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="App1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TerrainMesh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Fault.cpp">
+      <Filter>Source Files\Generation Modes</Filter>
+    </ClCompile>
+    <ClCompile Include="BaseGenerationMode.cpp">
+      <Filter>Source Files\Generation Modes</Filter>
+    </ClCompile>
+    <ClCompile Include="TerrainSettings.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PerlinNoise.cpp">
+      <Filter>Source Files\Generation Modes</Filter>
+    </ClCompile>
+    <ClCompile Include="Voronoi.cpp">
+      <Filter>Source Files\Generation Modes</Filter>
+    </ClCompile>
+    <ClCompile Include="TerrainShader.cpp">
+      <Filter>Source Files\Shaders</Filter>
+    </ClCompile>
+    <ClCompile Include="Smooth.cpp">
+      <Filter>Source Files\Generation Modes</Filter>
+    </ClCompile>
+    <ClCompile Include="Reset.cpp">
+      <Filter>Source Files\Generation Modes</Filter>
+    </ClCompile>
+    <ClCompile Include="Particle Deposition.cpp">
+      <Filter>Source Files\Generation Modes</Filter>
+    </ClCompile>
+    <ClCompile Include="RandomNoise.cpp">
+      <Filter>Source Files\Generation Modes</Filter>
+    </ClCompile>
+    <ClCompile Include="FractalBrownianMotion.cpp">
+      <Filter>Source Files\Generation Modes</Filter>
+    </ClCompile>
+    <ClCompile Include="ToonShader.cpp">
+      <Filter>Source Files\Shaders</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="App1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TerrainMesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SharedData.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseGenerationMode.h">
+      <Filter>Header Files\Generation Modes</Filter>
+    </ClInclude>
+    <ClInclude Include="Fault.h">
+      <Filter>Header Files\Generation Modes</Filter>
+    </ClInclude>
+    <ClInclude Include="TerrainSettings.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PerlinNoise.h">
+      <Filter>Header Files\Generation Modes</Filter>
+    </ClInclude>
+    <ClInclude Include="Voronoi.h">
+      <Filter>Header Files\Generation Modes</Filter>
+    </ClInclude>
+    <ClInclude Include="TerrainShader.h">
+      <Filter>Header Files\Shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="Smooth.h">
+      <Filter>Header Files\Generation Modes</Filter>
+    </ClInclude>
+    <ClInclude Include="Reset.h">
+      <Filter>Header Files\Generation Modes</Filter>
+    </ClInclude>
+    <ClInclude Include="Particle Deposition.h">
+      <Filter>Header Files\Generation Modes</Filter>
+    </ClInclude>
+    <ClInclude Include="RandomNoise.h">
+      <Filter>Header Files\Generation Modes</Filter>
+    </ClInclude>
+    <ClInclude Include="FractalBrownianMotion.h">
+      <Filter>Header Files\Generation Modes</Filter>
+    </ClInclude>
+    <ClInclude Include="ToonShader.h">
+      <Filter>Header Files\Shaders</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="shaders\terrain_ps.hlsl">
+      <Filter>Resource Files</Filter>
+    </FxCompile>
+    <FxCompile Include="shaders\terrain_vs.hlsl">
+      <Filter>Resource Files</Filter>
+    </FxCompile>
+    <FxCompile Include="shaders\toon_ps.hlsl">
+      <Filter>Resource Files</Filter>
+    </FxCompile>
+    <FxCompile Include="shaders\toon_vs.hlsl">
+      <Filter>Resource Files</Filter>
+    </FxCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
+</Project>
