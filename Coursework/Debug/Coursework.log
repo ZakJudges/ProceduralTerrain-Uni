@@ -1,70 +1,70 @@
 ﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(453,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
-C:\Portfolio\Terrain\ProceduralMethodsCoursework\Coursework\shaders\terrain_ps.hlsl(89,9): warning X4000: use of potentially uninitialized variable (textureColour)
+C:\Portfolio\Terrain\f\ProceduralTerrain-Uni\Coursework\shaders\terrain_ps.hlsl(89,9): warning X4000: use of potentially uninitialized variable (textureColour)
   
-  compilation object save succeeded; see C:\Portfolio\Terrain\ProceduralMethodsCoursework\Coursework\terrain_ps.cso
-C:\Portfolio\Terrain\ProceduralMethodsCoursework\Coursework\shaders\terrain_vs.hlsl(59,9-123): warning X3205: conversion from larger type to smaller, possible loss of data
-C:\Portfolio\Terrain\ProceduralMethodsCoursework\Coursework\shaders\terrain_vs.hlsl(111,11-21): warning X3205: conversion from larger type to smaller, possible loss of data
-C:\Portfolio\Terrain\ProceduralMethodsCoursework\Coursework\shaders\terrain_vs.hlsl(112,3-13): warning X3205: conversion from larger type to smaller, possible loss of data
-C:\Portfolio\Terrain\ProceduralMethodsCoursework\Coursework\shaders\terrain_vs.hlsl(113,3-13): warning X3205: conversion from larger type to smaller, possible loss of data
-C:\Portfolio\Terrain\ProceduralMethodsCoursework\Coursework\shaders\terrain_vs.hlsl(117,28): warning X3205: 'lerp': conversion from larger type to smaller, possible loss of data
-  compilation object save succeeded; see C:\Portfolio\Terrain\ProceduralMethodsCoursework\Coursework\terrain_vs.cso
-C:\Portfolio\Terrain\ProceduralMethodsCoursework\Coursework\shaders\terrain_vs.hlsl(117,28): warning X3205: 'lerp': conversion from larger type to smaller, possible loss of data
-C:\Portfolio\Terrain\ProceduralMethodsCoursework\Coursework\shaders\terrain_vs.hlsl(119,3): warning X3205: 'lerp': conversion from larger type to smaller, possible loss of data
-C:\Portfolio\Terrain\ProceduralMethodsCoursework\Coursework\shaders\terrain_vs.hlsl(119,3): warning X3205: 'lerp': conversion from larger type to smaller, possible loss of data
-C:\Portfolio\Terrain\ProceduralMethodsCoursework\Coursework\shaders\terrain_vs.hlsl(117,20): warning X3205: 'lerp': conversion from larger type to smaller, possible loss of data
-C:\Portfolio\Terrain\ProceduralMethodsCoursework\Coursework\shaders\terrain_vs.hlsl(117,20): warning X3205: 'lerp': conversion from larger type to smaller, possible loss of data
-C:\Portfolio\Terrain\ProceduralMethodsCoursework\Coursework\shaders\terrain_vs.hlsl(121,11): warning X3205: 'lerp': conversion from larger type to smaller, possible loss of data
-C:\Portfolio\Terrain\ProceduralMethodsCoursework\Coursework\shaders\terrain_vs.hlsl(121,11): warning X3205: 'lerp': conversion from larger type to smaller, possible loss of data
-C:\Portfolio\Terrain\ProceduralMethodsCoursework\Coursework\shaders\terrain_vs.hlsl(123,4): warning X3205: 'lerp': conversion from larger type to smaller, possible loss of data
-C:\Portfolio\Terrain\ProceduralMethodsCoursework\Coursework\shaders\terrain_vs.hlsl(123,4): warning X3205: 'lerp': conversion from larger type to smaller, possible loss of data
-C:\Portfolio\Terrain\ProceduralMethodsCoursework\Coursework\shaders\terrain_vs.hlsl(121,3): warning X3205: 'lerp': conversion from larger type to smaller, possible loss of data
-C:\Portfolio\Terrain\ProceduralMethodsCoursework\Coursework\shaders\terrain_vs.hlsl(121,3): warning X3205: 'lerp': conversion from larger type to smaller, possible loss of data
-C:\Portfolio\Terrain\ProceduralMethodsCoursework\Coursework\shaders\terrain_vs.hlsl(117,12): warning X3205: 'lerp': conversion from larger type to smaller, possible loss of data
-C:\Portfolio\Terrain\ProceduralMethodsCoursework\Coursework\shaders\terrain_vs.hlsl(117,12): warning X3205: 'lerp': conversion from larger type to smaller, possible loss of data
+  compilation object save succeeded; see C:\Portfolio\Terrain\f\ProceduralTerrain-Uni\Coursework\terrain_ps.cso
+C:\Portfolio\Terrain\f\ProceduralTerrain-Uni\Coursework\shaders\terrain_vs.hlsl(59,9-123): warning X3205: conversion from larger type to smaller, possible loss of data
+C:\Portfolio\Terrain\f\ProceduralTerrain-Uni\Coursework\shaders\terrain_vs.hlsl(111,11-21): warning X3205: conversion from larger type to smaller, possible loss of data
+C:\Portfolio\Terrain\f\ProceduralTerrain-Uni\Coursework\shaders\terrain_vs.hlsl(112,3-13): warning X3205: conversion from larger type to smaller, possible loss of data
+C:\Portfolio\Terrain\f\ProceduralTerrain-Uni\Coursework\shaders\terrain_vs.hlsl(113,3-13): warning X3205: conversion from larger type to smaller, possible loss of data
+C:\Portfolio\Terrain\f\ProceduralTerrain-Uni\Coursework\shaders\terrain_vs.hlsl(117,28): warning X3205: 'lerp': conversion from larger type to smaller, possible loss of data
+C:\Portfolio\Terrain\f\ProceduralTerrain-Uni\Coursework\shaders\terrain_vs.hlsl(117,28): warning X3205: 'lerp': conversion from larger type to smaller, possible loss of data
+C:\Portfolio\Terrain\f\ProceduralTerrain-Uni\Coursework\shaders\terrain_vs.hlsl(119,3): warning X3205: 'lerp': conversion from larger type to smaller, possible loss of data
+C:\Portfolio\Terrain\f\ProceduralTerrain-Uni\Coursework\shaders\terrain_vs.hlsl(119,3): warning X3205: 'lerp': conversion from larger type to smaller, possible loss of data
+C:\Portfolio\Terrain\f\ProceduralTerrain-Uni\Coursework\shaders\terrain_vs.hlsl(117,20): warning X3205: 'lerp': conversion from larger type to smaller, possible loss of data
+C:\Portfolio\Terrain\f\ProceduralTerrain-Uni\Coursework\shaders\terrain_vs.hlsl(117,20): warning X3205: 'lerp': conversion from larger type to smaller, possible loss of data
+C:\Portfolio\Terrain\f\ProceduralTerrain-Uni\Coursework\shaders\terrain_vs.hlsl(121,11): warning X3205: 'lerp': conversion from larger type to smaller, possible loss of data
+  compilation object save succeeded; see C:\Portfolio\Terrain\f\ProceduralTerrain-Uni\Coursework\terrain_vs.cso
+C:\Portfolio\Terrain\f\ProceduralTerrain-Uni\Coursework\shaders\terrain_vs.hlsl(121,11): warning X3205: 'lerp': conversion from larger type to smaller, possible loss of data
+C:\Portfolio\Terrain\f\ProceduralTerrain-Uni\Coursework\shaders\terrain_vs.hlsl(123,4): warning X3205: 'lerp': conversion from larger type to smaller, possible loss of data
+C:\Portfolio\Terrain\f\ProceduralTerrain-Uni\Coursework\shaders\terrain_vs.hlsl(123,4): warning X3205: 'lerp': conversion from larger type to smaller, possible loss of data
+C:\Portfolio\Terrain\f\ProceduralTerrain-Uni\Coursework\shaders\terrain_vs.hlsl(121,3): warning X3205: 'lerp': conversion from larger type to smaller, possible loss of data
+C:\Portfolio\Terrain\f\ProceduralTerrain-Uni\Coursework\shaders\terrain_vs.hlsl(121,3): warning X3205: 'lerp': conversion from larger type to smaller, possible loss of data
+C:\Portfolio\Terrain\f\ProceduralTerrain-Uni\Coursework\shaders\terrain_vs.hlsl(117,12): warning X3205: 'lerp': conversion from larger type to smaller, possible loss of data
+C:\Portfolio\Terrain\f\ProceduralTerrain-Uni\Coursework\shaders\terrain_vs.hlsl(117,12): warning X3205: 'lerp': conversion from larger type to smaller, possible loss of data
   
-  compilation object save succeeded; see C:\Portfolio\Terrain\ProceduralMethodsCoursework\Coursework\toon_ps.cso
-  compilation object save succeeded; see C:\Portfolio\Terrain\ProceduralMethodsCoursework\Coursework\toon_vs.cso
+  compilation object save succeeded; see C:\Portfolio\Terrain\f\ProceduralTerrain-Uni\Coursework\toon_ps.cso
+  compilation object save succeeded; see C:\Portfolio\Terrain\f\ProceduralTerrain-Uni\Coursework\toon_vs.cso
   App1.cpp
-C:\Portfolio\Terrain\ProceduralMethodsCoursework\Coursework\App1.cpp(231,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Portfolio\Terrain\ProceduralMethodsCoursework\Coursework\App1.cpp(231,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Portfolio\Terrain\f\ProceduralTerrain-Uni\Coursework\App1.cpp(231,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Portfolio\Terrain\f\ProceduralTerrain-Uni\Coursework\App1.cpp(231,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   BaseGenerationMode.cpp
   Fault.cpp
-C:\Portfolio\Terrain\ProceduralMethodsCoursework\Coursework\Fault.cpp(9,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Portfolio\Terrain\ProceduralMethodsCoursework\Coursework\Fault.cpp(26,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\Portfolio\Terrain\ProceduralMethodsCoursework\Coursework\Fault.cpp(27,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\Portfolio\Terrain\ProceduralMethodsCoursework\Coursework\Fault.cpp(28,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\Portfolio\Terrain\ProceduralMethodsCoursework\Coursework\Fault.cpp(29,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Portfolio\Terrain\f\ProceduralTerrain-Uni\Coursework\Fault.cpp(9,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Portfolio\Terrain\f\ProceduralTerrain-Uni\Coursework\Fault.cpp(26,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Portfolio\Terrain\f\ProceduralTerrain-Uni\Coursework\Fault.cpp(27,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Portfolio\Terrain\f\ProceduralTerrain-Uni\Coursework\Fault.cpp(28,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Portfolio\Terrain\f\ProceduralTerrain-Uni\Coursework\Fault.cpp(29,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
   FractalBrownianMotion.cpp
-C:\Portfolio\Terrain\ProceduralMethodsCoursework\Coursework\FractalBrownianMotion.cpp(27,92): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Portfolio\Terrain\f\ProceduralTerrain-Uni\Coursework\FractalBrownianMotion.cpp(27,92): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
   Main.cpp
   Particle Deposition.cpp
-C:\Portfolio\Terrain\ProceduralMethodsCoursework\Coursework\Particle Deposition.cpp(9,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Portfolio\Terrain\f\ProceduralTerrain-Uni\Coursework\Particle Deposition.cpp(9,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   PerlinNoise.cpp
-C:\Portfolio\Terrain\ProceduralMethodsCoursework\Coursework\PerlinNoise.cpp(41,105): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Portfolio\Terrain\f\ProceduralTerrain-Uni\Coursework\PerlinNoise.cpp(41,105): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
   RandomNoise.cpp
-C:\Portfolio\Terrain\ProceduralMethodsCoursework\Coursework\RandomNoise.cpp(8,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Portfolio\Terrain\f\ProceduralTerrain-Uni\Coursework\RandomNoise.cpp(8,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   Reset.cpp
   Smooth.cpp
   TerrainMesh.cpp
-C:\Portfolio\Terrain\ProceduralMethodsCoursework\Coursework\TerrainMesh.cpp(211,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Portfolio\Terrain\ProceduralMethodsCoursework\Coursework\TerrainMesh.cpp(251,8): warning C4101: 'positionX': unreferenced local variable
-C:\Portfolio\Terrain\ProceduralMethodsCoursework\Coursework\TerrainMesh.cpp(251,19): warning C4101: 'positionZ': unreferenced local variable
+C:\Portfolio\Terrain\f\ProceduralTerrain-Uni\Coursework\TerrainMesh.cpp(211,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Portfolio\Terrain\f\ProceduralTerrain-Uni\Coursework\TerrainMesh.cpp(251,8): warning C4101: 'positionX': unreferenced local variable
+C:\Portfolio\Terrain\f\ProceduralTerrain-Uni\Coursework\TerrainMesh.cpp(251,19): warning C4101: 'positionZ': unreferenced local variable
   TerrainSettings.cpp
   TerrainShader.cpp
-C:\Portfolio\Terrain\ProceduralMethodsCoursework\Coursework\TerrainShader.cpp(190,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\Portfolio\Terrain\ProceduralMethodsCoursework\Coursework\TerrainShader.cpp(218,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Portfolio\Terrain\ProceduralMethodsCoursework\Coursework\TerrainShader.cpp(218,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Portfolio\Terrain\ProceduralMethodsCoursework\Coursework\TerrainShader.cpp(222,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Portfolio\Terrain\ProceduralMethodsCoursework\Coursework\TerrainShader.cpp(222,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Portfolio\Terrain\f\ProceduralTerrain-Uni\Coursework\TerrainShader.cpp(190,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Portfolio\Terrain\f\ProceduralTerrain-Uni\Coursework\TerrainShader.cpp(218,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Portfolio\Terrain\f\ProceduralTerrain-Uni\Coursework\TerrainShader.cpp(218,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Portfolio\Terrain\f\ProceduralTerrain-Uni\Coursework\TerrainShader.cpp(222,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Portfolio\Terrain\f\ProceduralTerrain-Uni\Coursework\TerrainShader.cpp(222,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   ToonShader.cpp
   Voronoi.cpp
-C:\Portfolio\Terrain\ProceduralMethodsCoursework\Coursework\Voronoi.cpp(9,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Portfolio\Terrain\ProceduralMethodsCoursework\Coursework\Voronoi.cpp(54,22): warning C4018: '<': signed/unsigned mismatch
-C:\Portfolio\Terrain\ProceduralMethodsCoursework\Coursework\Voronoi.cpp(56,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Portfolio\Terrain\ProceduralMethodsCoursework\Coursework\Voronoi.cpp(81,33): warning C4018: '<': signed/unsigned mismatch
-C:\Portfolio\Terrain\ProceduralMethodsCoursework\Coursework\Voronoi.cpp(95,13): warning C4018: '>=': signed/unsigned mismatch
+C:\Portfolio\Terrain\f\ProceduralTerrain-Uni\Coursework\Voronoi.cpp(9,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Portfolio\Terrain\f\ProceduralTerrain-Uni\Coursework\Voronoi.cpp(54,22): warning C4018: '<': signed/unsigned mismatch
+C:\Portfolio\Terrain\f\ProceduralTerrain-Uni\Coursework\Voronoi.cpp(56,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Portfolio\Terrain\f\ProceduralTerrain-Uni\Coursework\Voronoi.cpp(81,33): warning C4018: '<': signed/unsigned mismatch
+C:\Portfolio\Terrain\f\ProceduralTerrain-Uni\Coursework\Voronoi.cpp(95,13): warning C4018: '>=': signed/unsigned mismatch
   Generating Code...
-DXFramework.lib(WICTextureLoader.obj) : warning LNK4099: PDB 'DirectXTK.pdb' was not found with 'DXFramework.lib(WICTextureLoader.obj)' or at 'C:\Portfolio\Terrain\ProceduralMethodsCoursework\exe\DirectXTK.pdb'; linking object as if no debug info
-DXFramework.lib(pch.obj) : warning LNK4099: PDB 'DirectXTK.pdb' was not found with 'DXFramework.lib(pch.obj)' or at 'C:\Portfolio\Terrain\ProceduralMethodsCoursework\exe\DirectXTK.pdb'; linking object as if no debug info
-DXFramework.lib(DDSTextureLoader.obj) : warning LNK4099: PDB 'DirectXTK.pdb' was not found with 'DXFramework.lib(DDSTextureLoader.obj)' or at 'C:\Portfolio\Terrain\ProceduralMethodsCoursework\exe\DirectXTK.pdb'; linking object as if no debug info
-  Coursework.vcxproj -> C:\Portfolio\Terrain\ProceduralMethodsCoursework\exe\Coursework.exe
+DXFramework.lib(WICTextureLoader.obj) : warning LNK4099: PDB 'DirectXTK.pdb' was not found with 'DXFramework.lib(WICTextureLoader.obj)' or at 'C:\Portfolio\Terrain\f\ProceduralTerrain-Uni\exe\DirectXTK.pdb'; linking object as if no debug info
+DXFramework.lib(pch.obj) : warning LNK4099: PDB 'DirectXTK.pdb' was not found with 'DXFramework.lib(pch.obj)' or at 'C:\Portfolio\Terrain\f\ProceduralTerrain-Uni\exe\DirectXTK.pdb'; linking object as if no debug info
+DXFramework.lib(DDSTextureLoader.obj) : warning LNK4099: PDB 'DirectXTK.pdb' was not found with 'DXFramework.lib(DDSTextureLoader.obj)' or at 'C:\Portfolio\Terrain\f\ProceduralTerrain-Uni\exe\DirectXTK.pdb'; linking object as if no debug info
+  Coursework.vcxproj -> C:\Portfolio\Terrain\f\ProceduralTerrain-Uni\exe\Coursework.exe

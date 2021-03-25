@@ -2,3 +2,5 @@ C:\Old_Laptop\3rd Year\CMP305\ProceduralMethodsCoursework\Debug\DXFramework.pdb
 C:\Old_Laptop\3rd Year\CMP305\ProceduralMethodsCoursework\DXFramework\Debug\DXFramework.pdb
 C:\Portfolio\Terrain\ProceduralMethodsCoursework\Debug\DXFramework.pdb
 C:\Portfolio\Terrain\ProceduralMethodsCoursework\DXFramework\Debug\DXFramework.pdb
+C:\Portfolio\Terrain\f\ProceduralTerrain-Uni\Debug\DXFramework.pdb
+C:\Portfolio\Terrain\f\ProceduralTerrain-Uni\DXFramework\Debug\DXFramework.pdb
